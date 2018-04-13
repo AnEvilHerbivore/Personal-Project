@@ -1,0 +1,40 @@
+img {
+    height: 100px;
+    width: 100px;
+}
+
+section {
+    display: inline-block;
+    text-align: center;
+    margin: 20px;
+    height: 400px;;
+    width: 400px;
+}
+
+.NorthAmerica {
+   background-color:  green;
+}
+
+.SouthAmerica {
+    background-color: blue;
+}
+
+.Asia {
+    background-color: purple;
+}
+
+.Antarctica {
+    background-color: yellow;
+}
+
+.Europe {
+    background-color: orange;
+}
+
+.Africa {
+    background-color: red;
+}
+
+.Australia {
+    background-color: brown;
+}
